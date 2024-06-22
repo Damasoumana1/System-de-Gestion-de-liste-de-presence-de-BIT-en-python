@@ -1,0 +1,42 @@
+{
+    "1": {
+        "name": "Ds",
+        "classe": "CS",
+        "attendance": []
+    },
+    "2": {
+        "name": "Dao ali",
+        "classe": "CS25",
+        "attendance": [
+            {
+                "cours": "Math",
+                "status": "Present"
+            }
+        ]
+    },
+    "5": {
+        "name": "Oussou",
+        "classe": "CS25",
+        "attendance": []
+    },
+    "6": {
+        "name": "Amine",
+        "classe": "CS25",
+        "attendance": [
+            {
+                "cours": "Algo",
+                "status": "Present"
+            }
+        ]
+    },
+    "7": {
+        "name": "Dakio",
+        "classe": "CS26",
+        "attendance": [
+            {
+                "cours": "Anglais",
+                "status": "Present"
+            }
+        ]
+    }
+}
